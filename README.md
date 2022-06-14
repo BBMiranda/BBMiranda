@@ -22,7 +22,11 @@
   <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Sass" height="40" width="40" href="https://github.com/BBMiranda" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png"/></a>
   <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Js" height="40" width="50" href="https://github.com/BBMiranda" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>
   <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Node.js" height="40" width="40" href="https://github.com/BBMiranda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
-  <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Java" height="40" width="40" href="https://github.com/BBMiranda" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"/></a>
+  
+  
+<!--  <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Java" height="40" width="40" href="https://github.com/BBMiranda" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"/></a> -->
+  
+  
   <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-MySQL" height="40" width="50" href="https://github.com/BBMiranda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a> 
   <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Postman" height="45" width="50" href="https://github.com/BBMiranda" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png"/></a> 
   <a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Ubuntu" height="40" width="50" href="https://github.com/BBMiranda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
