@@ -8,7 +8,7 @@
 <li>:brain: | <strong>Hard/Soft Skills</strong></li> 
 <li>:owl: | <strong>Technology and Philosophy</strong></li>
 <li>:dart: | <strong>Minimalist</strong></li> 
-<li>:rainbow_flag: | <strong>Pronouns: he/they</strong></li> 
+<li>:rainbow_flag: | <strong>Pronouns: He/Him</strong></li> 
 </ul>
 
 ##
