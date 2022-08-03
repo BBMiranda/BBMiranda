@@ -4,7 +4,7 @@
 
 
 <ul>
-<li>:computer: | <strong> Web Development Student at Certified Tech Developer - DigitalHouse</strong> :rocket:</li> 
+<li>:computer: | <strong>Developer Front-End Jr</strong> :rocket:</li> 
 <li>:brain: | <strong>Hard/Soft Skills</strong></li> 
 <li>:owl: | <strong>Technology and Philosophy</strong></li>
 <li>:dart: | <strong>Minimalist</strong></li> 
