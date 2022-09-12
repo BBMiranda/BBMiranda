@@ -4,7 +4,8 @@
 
 
 <ul>
-<li>:computer: | <strong>Developer Front-End Jr</strong> :rocket:</li> 
+<li>:rocket: | <strong>Certified Tech Developer Student - <a href="https://www.digitalhouse.com/br">Digital House</a></strong></li>
+<li>:computer: | <strong>I'm currently studying web development</strong> </li>
 <li>:brain: | <strong>Hard/Soft Skills</strong></li> 
 <li>:owl: | <strong>Technology and Philosophy</strong></li>
 <li>:dart: | <strong>Minimalist</strong></li> 
