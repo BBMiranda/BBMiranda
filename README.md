@@ -46,7 +46,7 @@
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">-->
 </div>
 
    
