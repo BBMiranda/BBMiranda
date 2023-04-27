@@ -4,8 +4,7 @@
 
 
 <ul>
-<li>:rocket: | <strong>Certified Tech Developer Student - <a href="https://www.digitalhouse.com/br">Digital House</a></strong></li>
-<li>:computer: | <strong>I'm currently studying web development</strong> </li>
+<li>:computer: | <strong>Salesforce Developer na <a href="https://sottelli.com/"></a>Sottelli</strong></li>
 <li>:brain: | <strong>Hard/Soft Skills</strong></li> 
 <li>:owl: | <strong>Technology and Philosophy</strong></li>
 <li>:dart: | <strong>Minimalist</strong></li> 
