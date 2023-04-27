@@ -4,7 +4,7 @@
 
 
 <ul>
-<li>:computer: | <strong>Salesforce Developer na <a href="https://sottelli.com/"></a>Sottelli</strong></li>
+<li>:computer: | <strong>Salesforce Developer na <a href="https://sottelli.com/">Sottelli</a></strong></li>
 <li>:brain: | <strong>Hard/Soft Skills</strong></li> 
 <li>:owl: | <strong>Technology and Philosophy</strong></li>
 <li>:dart: | <strong>Minimalist</strong></li> 
