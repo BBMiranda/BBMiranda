@@ -1,4 +1,4 @@
-<div align="center"><img width="950" src="https://i.ibb.co/hVyGYZp/github-header-image-5.png"/></div>
+<div align="center"><img width="950" src="https://i.ibb.co/K66r86Z/github-header-image.png"/></div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BBMiranda&color=blueviolet" alt="Profile views"/></p>
 
