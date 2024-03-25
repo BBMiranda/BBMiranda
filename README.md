@@ -4,7 +4,7 @@
 
 
 <ul>
-<li>:cloud: | <strong>Salesforce Developer at <a href="https://sottelli.com/">Sottelli</a></strong></li>
+<li>:cloud: | <strong>Salesforce Developer <!-- at <a href="https://sottelli.com/">Sottelli</a></strong>--></li>
 <li>:brain: | <strong>Hard/Soft Skills</strong></li> 
 <li>:owl: | <strong>Technology and Philosophy</strong></li>
 <li>:dart: | <strong>Minimalist</strong></li> 
