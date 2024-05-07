@@ -19,7 +19,7 @@
 
 <div style="display: inline_block" align="center"> 
   
-  <!--[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs)](https://skillicons.dev)-->
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs)](https://skillicons.dev)
    
   [![My Skills](https://skillicons.dev/icons?i=jest,mysql,git,github,vscode,linux)](https://skillicons.dev)
   <!--<a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Postman" height="45" width="50" href="https://github.com/BBMiranda" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png"/></a>--> 
@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/bruno-b-miranda/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode" /></a>
   <a href="https://www.instagram.com/b.b.miranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode" /></a>  
   
-   ![Snake animation](https://github.com/BBMiranda/BBMiranda/blob/output/github-contribution-grid-snake.svg)
+   <!--![Snake animation](https://github.com/BBMiranda/BBMiranda/blob/output/github-contribution-grid-snake.svg)-->
   
   <br>
   
