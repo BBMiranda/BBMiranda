@@ -21,7 +21,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs)](https://skillicons.dev)
    
-  [![My Skills](https://skillicons.dev/icons?i=postman,mysql,git,github,vscode,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode,linux,notion)](https://skillicons.dev)
 
 </div>
 
