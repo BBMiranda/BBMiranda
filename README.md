@@ -19,7 +19,7 @@
 
 <div style="display: inline_block" align="center"> 
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs)](https://skillicons.dev)
+  <!--[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs)](https://skillicons.dev)-->
    
   [![My Skills](https://skillicons.dev/icons?i=jest,mysql,git,github,vscode,linux)](https://skillicons.dev)
   <!--<a href="https://github.com/BBMiranda"><img align="center" alt="BBM-Postman" height="45" width="50" href="https://github.com/BBMiranda" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png"/></a>-->
