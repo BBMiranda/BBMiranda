@@ -42,12 +42,11 @@
   <a href="https://www.instagram.com/b.b.miranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode" /></a>  
   
    <!--![Snake animation](https://github.com/BBMiranda/BBMiranda/blob/output/github-contribution-grid-snake.svg)-->
-   ![Snake animation](https://github.com/BBMiranda/BBMiranda/blob/output/github-contribution-grid-snake.svg)
   
   <br>
   
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">
+
 </div>
 
    
