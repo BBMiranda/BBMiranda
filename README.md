@@ -25,8 +25,6 @@
 
 </div>
 
-<br>
-
    <!--!<div align="center">
   <a href="https://github.com/BBMiranda"><img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=BBMiranda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" /></a>
   <a href="https://github.com/BBMiranda"><img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBMiranda&layout=compact&langs_count=7&theme=nightowl"/></a>
@@ -40,11 +38,11 @@
   <a href="https://www.linkedin.com/in/bruno-b-miranda/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF" /></a>
   <a href="https://www.instagram.com/b.b.miranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF" /></a>  
   
-   [Snake animation](https://github.com/BBMiranda/BBMiranda/blob/output/github-contribution-grid-snake.svg)
+   <!--[Snake animation](https://github.com/BBMiranda/BBMiranda/blob/output/github-contribution-grid-snake.svg)-->
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">
+  <!--!<img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">-->
 
 </div>
 
